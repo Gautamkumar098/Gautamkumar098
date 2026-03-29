@@ -75,11 +75,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautamkumar098&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Gautamkumar098/Gautamkumar098/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ###
